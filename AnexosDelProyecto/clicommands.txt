@@ -1,0 +1,15 @@
+// Ir a Implementacion
+cd Implementacion
+
+//Compile 
+g++ -std=c++11 -c main.cpp
+
+//Linking 
+g++ -std=c++11 -o Main *.o
+g++ -std=c++11 -o Main  main.o
+//Execute
+./Main
+
+
+
+g++ -std=c++11 -o Main main.cpp shell.hxx

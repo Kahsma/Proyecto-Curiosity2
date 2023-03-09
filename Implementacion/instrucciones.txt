@@ -1,0 +1,6 @@
+avanzar 40 cm
+girar 35 grd
+avanzar 35 cm
+perforar roca
+avanzar 26 cm
+girar 25 grd
